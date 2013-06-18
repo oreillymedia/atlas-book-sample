@@ -1,4 +1,7 @@
 {
-	"files" : ["chapter01.html"],
+	"files" : [
+		"cover.html",
+		"chapter01.html"
+	],
 	"template" : "some-git-url"
 }
