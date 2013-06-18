@@ -15,19 +15,13 @@ An Atlas repository must have a file called `atlas.json` in the repository root.
 Content
 -------
 
+The Atlas build system tries not to enforce strict rules on the way you write your content. That being said, here's a few things to keep in mind:
 
+* You can write in normal HTML, Markdown, or Asciidoc. Allowed file extensions are: `.html`, `.md`, `.markdown`, `.asc`, and `.asciidoc`
 
+* Markdown and Ascidoc will be compiled into HTMLBook..... MORE
 
+* Each file must be or compile to valid HTML. The content `<p>Hello` is not a valid file, but `<p>Hello</p>` is.
 
+* You can have files in any subfolder, as long as you specify the relative path to the folder in the `files` array.
 
-
-
-
-* The repo needs an atlas.json file with a list of files to build
-
-
-Atlas doesn't enforce any strict rules upon your HTML, other than the compiled file needs to be valid HTMLBook.
-* Each individual .html file needs to be a valid html document, otherwise the WYSIWYG won't work. This means we can't have one file with an opening tag, and another file with the corresponding closing tag. You can easily split chapters up into multiple files, but each file needs to be valid HTML.
-
-
-* chapter files can go in any subfolder, as long as you reference it in the atlas.json file (see file)
