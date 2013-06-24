@@ -1,8 +1,0 @@
-@import url("[template-url-path]/cover/cover.css");
-
-/* INSERT YOUR CUSTOMIZATIONS BELOW: */
-
-figure.cover h1.title {
-	font-size: 1in;
-	text-align: center;
-}
