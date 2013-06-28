@@ -1,8 +1,37 @@
-@import url("[template-url-path]/cover/cover.css");
+@import url("[path_to_template]/stylesheets/pdf/pdf.css");
+@import url("colors.css");
 
-/* INSERT YOUR CUSTOMIZATIONS BELOW: */
+figure.cover {
+	page: cover;
+	font-family: sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	page-break-after: always;
+}
+
+figure.cover div.pdfonly {
+	background-color: #fff;
+	padding: .5in;
+	width: 4.5in;
+	float: bottom;
+}
+
+figure.cover p.author {
+	font-family: "Gotham-Light-Pro", sans-serif;
+	font-size: 14pt;
+	letter-spacing: 1pt;
+}
 
 figure.cover h1.title {
-	font-size: 1in;
-	text-align: center;
+	font-family: "Gotham-Book-Pro", sans-serif;
+	font-size: 36pt;
+	line-height: 110%;
+	margin: 0 0 .12in 0;
+	padding: 0 0 .12in 0;
+	border-bottom: 1pt solid #000;
+}
+
+img.fallback {
+	display: none;
 }

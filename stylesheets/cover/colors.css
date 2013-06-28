@@ -1,0 +1,14 @@
+@page cover {
+background-color: #dcfd70;
+margin: 0 0 1.25in 0;
+padding: 0;
+@bottom-left-corner {
+background-color: #fdd870;
+}
+@bottom-left {
+background-color: #fdd870;
+}
+@bottom-right-corner {
+background-color: #fdd870;
+}
+}
