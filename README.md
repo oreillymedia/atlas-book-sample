@@ -1,7 +1,7 @@
 Atlas Book Sample
 =================
 
-This repository holds a basic project skeleton that can be built through O'Reilly Atlas. We fork this repository whenever you create a new project in the Atlas UI, which means that you can also just fork it directly on GitHub when starting a new book.
+This repository holds a basic project skeleton that can be built through O'Reilly Atlas. We fork this repository whenever you create a new project in the Atlas user interface, which means that you can also just fork it directly on GitHub when starting a new book.
 
 Follow this README to learn more about the basic skeleton of an Atlas book.
 
