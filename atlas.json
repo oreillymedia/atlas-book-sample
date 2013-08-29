@@ -1,7 +1,7 @@
 {
-	"files" : [
-		"cover.html",
-		"chapter01.html"
-	],
-	"theme" : "oreillymedia/atlas_trade_theme"
+  "files": [
+    "cover.html",
+    "chapter01.html"
+  ],
+  "theme": "oreillymedia/atlas_trade_theme"
 }
