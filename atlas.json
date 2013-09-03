@@ -3,5 +3,6 @@
     "cover.html",
     "chapter01.html"
   ],
+  "formats": [],
   "theme": "oreillymedia/atlas_trade_theme"
 }
