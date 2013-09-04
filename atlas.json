@@ -3,6 +3,11 @@
     "cover.html",
     "chapter01.html"
   ],
-  "formats": [],
+  "formats": {
+    "pdf": {},
+    "epub": {},
+    "mobi": {},
+    "html": {}
+  },
   "theme": "oreillymedia/atlas_trade_theme"
 }
