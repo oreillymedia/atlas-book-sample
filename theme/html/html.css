@@ -1,1 +1,11 @@
 /* Override main template here */
+
+body {
+  font-family: "Helvetica", sans-serif;
+  max-width: 90%;
+  margin: 10px auto;
+}
+
+img {
+  max-width: 100%;
+}
