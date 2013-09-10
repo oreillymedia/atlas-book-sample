@@ -1,13 +1,15 @@
 {
   "files": [
-    "cover.html",
     "chapter01.html"
   ],
   "formats": {
-    "pdf": {},
+    "pdf": {
+      "version": "web",
+      "toc": true
+    },
     "epub": {},
     "mobi": {},
     "html": {}
   },
-  "theme": "oreillymedia/atlas_trade_theme"
+  "theme": "oreillymedia/makerpress_maker4c_theme"
 }
