@@ -1,8 +1,17 @@
 {
-	"title": "Alice's Adventures in Wonderland",
-	"files" : [
-		"cover.html",
-		"chapter01.html"
-	],
-	"template" : "some-git-url"
+  "files": [
+    "cover.html",
+    "chapter01.html"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "toc": true
+    },
+    "epub": {},
+    "mobi": {},
+    "html": {}
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "title": "Atlas Book Sample"
 }
