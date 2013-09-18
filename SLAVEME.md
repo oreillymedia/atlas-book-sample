@@ -1,1 +1,1 @@
-I'm a slave.
+I'm a slave
