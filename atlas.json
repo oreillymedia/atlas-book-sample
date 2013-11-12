@@ -13,7 +13,7 @@
     "epub": {},
     "mobi": {},
     "html": {
-      "consolidated": true
+      "consolidated": false
     }
   },
   "theme": "oreillymedia/animal_theme",
