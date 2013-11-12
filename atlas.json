@@ -12,7 +12,9 @@
     },
     "epub": {},
     "mobi": {},
-    "html": {}
+    "html": {
+      "consolidated": true
+    }
   },
   "theme": "oreillymedia/animal_theme",
   "title": "Alice's Adventures In Wonderland"
