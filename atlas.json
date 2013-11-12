@@ -1,7 +1,8 @@
 {
   "files": [
     "cover.html",
-    "chapter01.html"
+    "chapter01.html",
+    "chapter2.html"
   ],
   "formats": {
     "pdf": {
