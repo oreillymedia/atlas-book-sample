@@ -13,6 +13,6 @@
     "mobi": {},
     "html": {}
   },
-  "theme": "oreillymedia/animal_theme",
+  "theme": "https://github.com/oreillymedia/atlas-theme-sample.git",
   "title": "Alice's Adventures In Wonderland"
 }
